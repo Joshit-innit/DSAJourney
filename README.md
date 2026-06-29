@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Joshit-innit/DSAJourney/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Joshit-innit/DSAJourney/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
 | [0739-daily-temperatures](https://github.com/Joshit-innit/DSAJourney/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Joshit-innit/DSAJourney/tree/master/0853-car-fleet) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Joshit-innit/DSAJourney/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Joshit-innit/DSAJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Two Pointers
 |  |
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0509-fibonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
