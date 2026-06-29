@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Joshit-innit/DSAJourney/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Joshit-innit/DSAJourney/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Joshit-innit/DSAJourney/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Joshit-innit/DSAJourney/tree/master/0496-next-greater-element-i) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Joshit-innit/DSAJourney/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Joshit-innit/DSAJourney/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Joshit-innit/DSAJourney/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Joshit-innit/DSAJourney/tree/master/0402-remove-k-digits) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Joshit-innit/DSAJourney/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Joshit-innit/DSAJourney/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Joshit-innit/DSAJourney/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Joshit-innit/DSAJourney/tree/master/0402-remove-k-digits) |
@@ -80,5 +83,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Joshit-innit/DSAJourney/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Joshit-innit/DSAJourney/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
