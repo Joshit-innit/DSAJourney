@@ -84,9 +84,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Joshit-innit/DSAJourney/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Joshit-innit/DSAJourney/tree/master/0070-climbing-stairs) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Joshit-innit/DSAJourney/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Joshit-innit/DSAJourney/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Joshit-innit/DSAJourney/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
