@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Joshit-innit/DSAJourney/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Joshit-innit/DSAJourney/tree/master/0853-car-fleet) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Joshit-innit/DSAJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -32,16 +33,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Joshit-innit/DSAJourney/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Joshit-innit/DSAJourney/tree/master/0853-car-fleet) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Joshit-innit/DSAJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Joshit-innit/DSAJourney/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Joshit-innit/DSAJourney/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Joshit-innit/DSAJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Joshit-innit/DSAJourney/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Joshit-innit/DSAJourney/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Joshit-innit/DSAJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
