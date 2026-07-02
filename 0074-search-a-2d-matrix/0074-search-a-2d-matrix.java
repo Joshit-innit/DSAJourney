@@ -9,10 +9,10 @@ class Solution {
         while (top <= bottom) {
             int mid = top + (bottom - top) / 2;
 
-            if (target > matrix[mid][cols]) {
+            if (matrix[mid][cols] < target) {
                 top = mid + 1;
             } 
-            else if (target < matrix[mid][0]) {
+            else if (matrix[mid][0] > target) {
                 bottom = mid - 1;
             }
             else {
