@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Joshit-innit/DSAJourney/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1539-kth-missing-positive-number](https://github.com/Joshit-innit/DSAJourney/tree/master/1539-kth-missing-positive-number) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Joshit-innit/DSAJourney/tree/master/1818-minimum-absolute-sum-difference) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Joshit-innit/DSAJourney/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Joshit-innit/DSAJourney/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Joshit-innit/DSAJourney/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/Joshit-innit/DSAJourney/tree/master/1539-kth-missing-positive-number) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Joshit-innit/DSAJourney/tree/master/1818-minimum-absolute-sum-difference) |
 ## Ordered Set
 |  |
