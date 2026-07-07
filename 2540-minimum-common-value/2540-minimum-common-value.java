@@ -3,8 +3,8 @@ class Solution {
         // HashSet<Integer> set = new HashSet<>();
         // for (int num : nums1) {
         //     set.add(num);
-        // }
-        // for (int num : nums2) {
+        // }                                        Time complexity -> O(n + m)
+        // for (int num : nums2) {                  Space Complexity -> O(nums1.length)
         //     if (set.contains(num)) {
         //         return num;
         //     }
@@ -21,8 +21,8 @@ class Solution {
         } 
         while(i < n && j < m) {
             if (nums1[i] == nums2[j]) {
-                return nums1[i];
-            }else if (nums1[i] < nums2[j]) {
+                return nums1[i];                       // Time complexity -> O(n + m)
+            }else if (nums1[i] < nums2[j]) {            // Space Complexity -> O(1)
                 i++;
             }else {
                 j++;
