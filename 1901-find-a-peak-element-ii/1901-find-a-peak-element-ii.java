@@ -44,7 +44,8 @@ class Solution {
 
 
         // find the maximum element in the row, as it is the maximum element the left and the right will be minimul of the maximum.
-        // After finding the maximum value, check the up and down element of the maximum element.
+        
+        // After finding the maximum value, check the up and down element of the maximum element. And handle the edges as well(lines 25, 26)
         // If the up and down are small, return the [row][maxElementColumn];
         // If the up element is grater than maxElement move up (high = mid - 1)
         // If the down element is greater than maxElement move down (low = mid + 1)
