@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Joshit-innit/DSAJourney/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Joshit-innit/DSAJourney/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1539-kth-missing-positive-number](https://github.com/Joshit-innit/DSAJourney/tree/master/1539-kth-missing-positive-number) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Joshit-innit/DSAJourney/tree/master/1818-minimum-absolute-sum-difference) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Joshit-innit/DSAJourney/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Joshit-innit/DSAJourney/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Joshit-innit/DSAJourney/tree/master/1539-kth-missing-positive-number) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Joshit-innit/DSAJourney/tree/master/1818-minimum-absolute-sum-difference) |
 | [1901-find-a-peak-element-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/1901-find-a-peak-element-ii) |
