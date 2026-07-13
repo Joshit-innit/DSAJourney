@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/Joshit-innit/DSAJourney/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Joshit-innit/DSAJourney/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/Joshit-innit/DSAJourney/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0540-single-element-in-a-sorted-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/Joshit-innit/DSAJourney/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Joshit-innit/DSAJourney/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Joshit-innit/DSAJourney/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0268-missing-number) |
+| [0475-heaters](https://github.com/Joshit-innit/DSAJourney/tree/master/0475-heaters) |
 | [0853-car-fleet](https://github.com/Joshit-innit/DSAJourney/tree/master/0853-car-fleet) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Joshit-innit/DSAJourney/tree/master/1818-minimum-absolute-sum-difference) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1996-the-number-of-weak-characters-in-the-game) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Joshit-innit/DSAJourney/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0287-find-the-duplicate-number) |
+| [0475-heaters](https://github.com/Joshit-innit/DSAJourney/tree/master/0475-heaters) |
 | [0845-longest-mountain-in-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0845-longest-mountain-in-array) |
 | [2540-minimum-common-value](https://github.com/Joshit-innit/DSAJourney/tree/master/2540-minimum-common-value) |
 ## Math
