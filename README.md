@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Joshit-innit/DSAJourney/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/Joshit-innit/DSAJourney/tree/master/2540-minimum-common-value) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Joshit-innit/DSAJourney/tree/master/0853-car-fleet) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Joshit-innit/DSAJourney/tree/master/1818-minimum-absolute-sum-difference) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/Joshit-innit/DSAJourney/tree/master/0826-most-profit-assigning-work) |
 | [0845-longest-mountain-in-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0845-longest-mountain-in-array) |
 | [2540-minimum-common-value](https://github.com/Joshit-innit/DSAJourney/tree/master/2540-minimum-common-value) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Joshit-innit/DSAJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -212,4 +216,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Joshit-innit/DSAJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
