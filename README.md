@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Joshit-innit/DSAJourney/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/Joshit-innit/DSAJourney/tree/master/2540-minimum-common-value) |
+| [2594-minimum-time-to-repair-cars](https://github.com/Joshit-innit/DSAJourney/tree/master/2594-minimum-time-to-repair-cars) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/1901-find-a-peak-element-ii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Joshit-innit/DSAJourney/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/Joshit-innit/DSAJourney/tree/master/2540-minimum-common-value) |
+| [2594-minimum-time-to-repair-cars](https://github.com/Joshit-innit/DSAJourney/tree/master/2594-minimum-time-to-repair-cars) |
 ## Ordered Set
 |  |
 | ------- |
