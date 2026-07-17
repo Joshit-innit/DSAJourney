@@ -1,5 +1,11 @@
 class Solution {
-    
+    public long availableEnergy(int[] batteries, long T) {
+        long available = 0;
+        for (long t : batteries) {
+            available += Math.min(t, T);
+        }
+        return available;
+    }
     public long maxRunTime(int n, int[] batteries) {
         long left = 1;
         long right = Arrays.stream(batteries).asLongStream().sum() / n;
@@ -7,12 +13,8 @@ class Solution {
         long ans = -1;
         while (left <= right) {
             long T = left + (right - left) / 2;
-            long availableEnergy = 0;
-            for (int t : batteries) {
-                availableEnergy += Math.min((long)t, T); 
-            }
 
-            if (availableEnergy >= (long)n * T) {
+            if (availableEnergy(batteries, T) >= (long)n * T) {
                 ans = T;
                 left = T + 1;
             }else {
