@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Joshit-innit/DSAJourney/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/Joshit-innit/DSAJourney/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Joshit-innit/DSAJourney/tree/master/2594-minimum-time-to-repair-cars) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Joshit-innit/DSAJourney/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -129,11 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Joshit-innit/DSAJourney/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/Joshit-innit/DSAJourney/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Joshit-innit/DSAJourney/tree/master/2594-minimum-time-to-repair-cars) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Joshit-innit/DSAJourney/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## Ordered Set
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Joshit-innit/DSAJourney/tree/master/0456-132-pattern) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Joshit-innit/DSAJourney/tree/master/1818-minimum-absolute-sum-difference) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Joshit-innit/DSAJourney/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## Hash Table
 |  |
 | ------- |
