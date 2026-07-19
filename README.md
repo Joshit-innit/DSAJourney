@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Joshit-innit/DSAJourney/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Joshit-innit/DSAJourney/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/Joshit-innit/DSAJourney/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/Joshit-innit/DSAJourney/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Joshit-innit/DSAJourney/tree/master/2594-minimum-time-to-repair-cars) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Joshit-innit/DSAJourney/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Joshit-innit/DSAJourney/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/Joshit-innit/DSAJourney/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/1901-find-a-peak-element-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Joshit-innit/DSAJourney/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Joshit-innit/DSAJourney/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/Joshit-innit/DSAJourney/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/Joshit-innit/DSAJourney/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Joshit-innit/DSAJourney/tree/master/2594-minimum-time-to-repair-cars) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Joshit-innit/DSAJourney/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-minimum-absolute-sum-difference](https://github.com/Joshit-innit/DSAJourney/tree/master/1818-minimum-absolute-sum-difference) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Joshit-innit/DSAJourney/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/Joshit-innit/DSAJourney/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
