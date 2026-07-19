@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Joshit-innit/DSAJourney/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1539-kth-missing-positive-number](https://github.com/Joshit-innit/DSAJourney/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Joshit-innit/DSAJourney/tree/master/1552-magnetic-force-between-two-balls) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Joshit-innit/DSAJourney/tree/master/1818-minimum-absolute-sum-difference) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Joshit-innit/DSAJourney/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/1901-find-a-peak-element-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Joshit-innit/DSAJourney/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Joshit-innit/DSAJourney/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Joshit-innit/DSAJourney/tree/master/1552-magnetic-force-between-two-balls) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Joshit-innit/DSAJourney/tree/master/1818-minimum-absolute-sum-difference) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Joshit-innit/DSAJourney/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/1901-find-a-peak-element-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Joshit-innit/DSAJourney/tree/master/0475-heaters) |
 | [0826-most-profit-assigning-work](https://github.com/Joshit-innit/DSAJourney/tree/master/0826-most-profit-assigning-work) |
 | [0853-car-fleet](https://github.com/Joshit-innit/DSAJourney/tree/master/0853-car-fleet) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Joshit-innit/DSAJourney/tree/master/1552-magnetic-force-between-two-balls) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Joshit-innit/DSAJourney/tree/master/1818-minimum-absolute-sum-difference) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Joshit-innit/DSAJourney/tree/master/2141-maximum-running-time-of-n-computers) |
