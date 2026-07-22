@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Joshit-innit/DSAJourney/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Joshit-innit/DSAJourney/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Joshit-innit/DSAJourney/tree/master/0084-largest-rectangle-in-histogram) |
@@ -257,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/Joshit-innit/DSAJourney/tree/master/1201-ugly-number-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Joshit-innit/DSAJourney/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
