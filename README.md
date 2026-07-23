@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Joshit-innit/DSAJourney/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Joshit-innit/DSAJourney/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Joshit-innit/DSAJourney/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Joshit-innit/DSAJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Joshit-innit/DSAJourney/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Joshit-innit/DSAJourney/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0287-find-the-duplicate-number) |
@@ -264,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Joshit-innit/DSAJourney/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Joshit-innit/DSAJourney/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
