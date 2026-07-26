@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Joshit-innit/DSAJourney/tree/master/0739-daily-temperatures) |
 | [0826-most-profit-assigning-work](https://github.com/Joshit-innit/DSAJourney/tree/master/0826-most-profit-assigning-work) |
 | [0845-longest-mountain-in-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0845-longest-mountain-in-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0268-missing-number) |
 | [0475-heaters](https://github.com/Joshit-innit/DSAJourney/tree/master/0475-heaters) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [0826-most-profit-assigning-work](https://github.com/Joshit-innit/DSAJourney/tree/master/0826-most-profit-assigning-work) |
 | [0853-car-fleet](https://github.com/Joshit-innit/DSAJourney/tree/master/0853-car-fleet) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Joshit-innit/DSAJourney/tree/master/1552-magnetic-force-between-two-balls) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Joshit-innit/DSAJourney/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Joshit-innit/DSAJourney/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [1201-ugly-number-iii](https://github.com/Joshit-innit/DSAJourney/tree/master/1201-ugly-number-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Joshit-innit/DSAJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
