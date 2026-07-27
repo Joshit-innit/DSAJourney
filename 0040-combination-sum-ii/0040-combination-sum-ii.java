@@ -1,35 +1,32 @@
 class Solution {
-    public void comboSum(int nums[], int target, int index, List<Integer> list, List<List<Integer>> result) {
+    public void findSubsets(int nums[], int target, int index, List<List<Integer>> result, List<Integer> list) {
         if (target == 0) {
             result.add(new ArrayList<>(list));
-            return;
         }
-        if (target < 0) {
-            return;
-        }
-        if (index == nums.length || nums[index] > target) {
+        if (target < 0 || nums.length == index || nums[index] > target) {
             return;
         }
 
         list.add(nums[index]);
         target -= nums[index];
-        comboSum(nums, target, index + 1, list, result);
+        findSubsets(nums, target, index + 1, result, list);
 
-        int next = index + 1;
-        while (next < nums.length && nums[next] == nums[index]) {
-            next++;
-        }
         list.remove(list.size() - 1);
         target += nums[index];
-        comboSum(nums, target, next, list, result);
+        int next = index + 1;
+
+        while (next < nums.length && nums[index] == nums[next]) {
+            next++;
+        }
+
+        findSubsets(nums, target, next, result, list);
+
         return;
     }
-
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        Arrays.sort(candidates);
-        int length = candidates.length;
         List<List<Integer>> result = new ArrayList<>();
-        comboSum(candidates, target, 0, new ArrayList<>(), result);
+        Arrays.sort(candidates);
+        findSubsets(candidates, target, 0, result, new ArrayList<>());
         return result;
     }
 }
