@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Joshit-innit/DSAJourney/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Joshit-innit/DSAJourney/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Joshit-innit/DSAJourney/tree/master/0042-trapping-rain-water) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Joshit-innit/DSAJourney/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Joshit-innit/DSAJourney/tree/master/0496-next-greater-element-i) |
 | [2540-minimum-common-value](https://github.com/Joshit-innit/DSAJourney/tree/master/2540-minimum-common-value) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Joshit-innit/DSAJourney/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Joshit-innit/DSAJourney/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Joshit-innit/DSAJourney/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Joshit-innit/DSAJourney/tree/master/0046-permutations) |
