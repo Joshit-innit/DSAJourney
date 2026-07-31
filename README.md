@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Joshit-innit/DSAJourney/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0287-find-the-duplicate-number) |
@@ -225,12 +226,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Joshit-innit/DSAJourney/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -281,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Joshit-innit/DSAJourney/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Joshit-innit/DSAJourney/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
