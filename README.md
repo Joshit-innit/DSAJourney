@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Joshit-innit/DSAJourney/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Joshit-innit/DSAJourney/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Joshit-innit/DSAJourney/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Joshit-innit/DSAJourney/tree/master/0231-power-of-two) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Joshit-innit/DSAJourney/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Joshit-innit/DSAJourney/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Joshit-innit/DSAJourney/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Joshit-innit/DSAJourney/tree/master/0326-power-of-three) |
