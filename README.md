@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [1201-ugly-number-iii](https://github.com/Joshit-innit/DSAJourney/tree/master/1201-ugly-number-iii) |
+| [1922-count-good-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Joshit-innit/DSAJourney/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Joshit-innit/DSAJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Joshit-innit/DSAJourney/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Joshit-innit/DSAJourney/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/1922-count-good-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
