@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Joshit-innit/DSAJourney/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Joshit-innit/DSAJourney/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Joshit-innit/DSAJourney/tree/master/1818-minimum-absolute-sum-difference) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Joshit-innit/DSAJourney/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/1901-find-a-peak-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Joshit-innit/DSAJourney/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [1201-ugly-number-iii](https://github.com/Joshit-innit/DSAJourney/tree/master/1201-ugly-number-iii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Joshit-innit/DSAJourney/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Joshit-innit/DSAJourney/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Joshit-innit/DSAJourney/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/1922-count-good-numbers) |
 ## Breadth-First Search
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
