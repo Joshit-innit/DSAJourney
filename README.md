@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/Joshit-innit/DSAJourney/tree/master/0826-most-profit-assigning-work) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Joshit-innit/DSAJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Joshit-innit/DSAJourney/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Joshit-innit/DSAJourney/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Joshit-innit/DSAJourney/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1201-ugly-number-iii](https://github.com/Joshit-innit/DSAJourney/tree/master/1201-ugly-number-iii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/1922-count-good-numbers) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Joshit-innit/DSAJourney/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Joshit-innit/DSAJourney/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Joshit-innit/DSAJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/1922-count-good-numbers) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Joshit-innit/DSAJourney/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
