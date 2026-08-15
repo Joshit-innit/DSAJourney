@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/Joshit-innit/DSAJourney/tree/master/2594-minimum-time-to-repair-cars) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Joshit-innit/DSAJourney/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Joshit-innit/DSAJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Joshit-innit/DSAJourney/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Joshit-innit/DSAJourney/tree/master/0342-power-of-four) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Joshit-innit/DSAJourney/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
 | ------- |
