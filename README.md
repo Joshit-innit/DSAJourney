@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Joshit-innit/DSAJourney/tree/master/0010-regular-expression-matching) |
 | [0131-palindrome-partitioning](https://github.com/Joshit-innit/DSAJourney/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/Joshit-innit/DSAJourney/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Joshit-innit/DSAJourney/tree/master/0273-integer-to-english-words) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Joshit-innit/DSAJourney/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Joshit-innit/DSAJourney/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Joshit-innit/DSAJourney/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Joshit-innit/DSAJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Joshit-innit/DSAJourney/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/Joshit-innit/DSAJourney/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Joshit-innit/DSAJourney/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Joshit-innit/DSAJourney/tree/master/0224-basic-calculator) |
