@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/Joshit-innit/DSAJourney/tree/master/0967-numbers-with-same-consecutive-differences) |
 ## Matrix
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Joshit-innit/DSAJourney/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Joshit-innit/DSAJourney/tree/master/0131-palindrome-partitioning) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/Joshit-innit/DSAJourney/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Joshit-innit/DSAJourney/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Depth-First Search
 |  |
