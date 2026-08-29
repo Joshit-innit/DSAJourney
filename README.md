@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Joshit-innit/DSAJourney/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/Joshit-innit/DSAJourney/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0503-next-greater-element-ii) |
+| [0526-beautiful-arrangement](https://github.com/Joshit-innit/DSAJourney/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/0628-maximum-product-of-three-numbers) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Joshit-innit/DSAJourney/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0509-fibonacci-number) |
+| [0526-beautiful-arrangement](https://github.com/Joshit-innit/DSAJourney/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
 | [0845-longest-mountain-in-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0845-longest-mountain-in-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/Joshit-innit/DSAJourney/tree/master/0907-sum-of-subarray-minimums) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Joshit-innit/DSAJourney/tree/master/0342-power-of-four) |
+| [0526-beautiful-arrangement](https://github.com/Joshit-innit/DSAJourney/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/Joshit-innit/DSAJourney/tree/master/0784-letter-case-permutation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Joshit-innit/DSAJourney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Joshit-innit/DSAJourney/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Joshit-innit/DSAJourney/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Joshit-innit/DSAJourney/tree/master/0131-palindrome-partitioning) |
+| [0526-beautiful-arrangement](https://github.com/Joshit-innit/DSAJourney/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/Joshit-innit/DSAJourney/tree/master/0784-letter-case-permutation) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Joshit-innit/DSAJourney/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Joshit-innit/DSAJourney/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -370,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Joshit-innit/DSAJourney/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Joshit-innit/DSAJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Joshit-innit/DSAJourney/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Joshit-innit/DSAJourney/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
