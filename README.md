@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Joshit-innit/DSAJourney/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Joshit-innit/DSAJourney/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Joshit-innit/DSAJourney/tree/master/0044-wildcard-matching) |
 | [0131-palindrome-partitioning](https://github.com/Joshit-innit/DSAJourney/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/Joshit-innit/DSAJourney/tree/master/0224-basic-calculator) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Joshit-innit/DSAJourney/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Joshit-innit/DSAJourney/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Joshit-innit/DSAJourney/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Joshit-innit/DSAJourney/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Joshit-innit/DSAJourney/tree/master/0070-climbing-stairs) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Joshit-innit/DSAJourney/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Joshit-innit/DSAJourney/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Joshit-innit/DSAJourney/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0040-combination-sum-ii) |
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Joshit-innit/DSAJourney/tree/master/0526-beautiful-arrangement) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Joshit-innit/DSAJourney/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
