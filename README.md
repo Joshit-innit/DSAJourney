@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Joshit-innit/DSAJourney/tree/master/0342-power-of-four) |
+| [0476-number-complement](https://github.com/Joshit-innit/DSAJourney/tree/master/0476-number-complement) |
 | [0526-beautiful-arrangement](https://github.com/Joshit-innit/DSAJourney/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/Joshit-innit/DSAJourney/tree/master/0784-letter-case-permutation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Joshit-innit/DSAJourney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
