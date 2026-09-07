@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Joshit-innit/DSAJourney/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Joshit-innit/DSAJourney/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/Joshit-innit/DSAJourney/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/Joshit-innit/DSAJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Joshit-innit/DSAJourney/tree/master/0402-remove-k-digits) |
 | [0784-letter-case-permutation](https://github.com/Joshit-innit/DSAJourney/tree/master/0784-letter-case-permutation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Joshit-innit/DSAJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Joshit-innit/DSAJourney/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/Joshit-innit/DSAJourney/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Joshit-innit/DSAJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Joshit-innit/DSAJourney/tree/master/0496-next-greater-element-i) |
 | [2540-minimum-common-value](https://github.com/Joshit-innit/DSAJourney/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Joshit-innit/DSAJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Joshit-innit/DSAJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
 |  |
@@ -398,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Joshit-innit/DSAJourney/tree/master/0022-generate-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Joshit-innit/DSAJourney/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
