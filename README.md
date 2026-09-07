@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Joshit-innit/DSAJourney/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Joshit-innit/DSAJourney/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Joshit-innit/DSAJourney/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0268-missing-number) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Joshit-innit/DSAJourney/tree/master/0037-sudoku-solver) |
+| [0217-contains-duplicate](https://github.com/Joshit-innit/DSAJourney/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Joshit-innit/DSAJourney/tree/master/0496-next-greater-element-i) |
 | [2540-minimum-common-value](https://github.com/Joshit-innit/DSAJourney/tree/master/2540-minimum-common-value) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Joshit-innit/DSAJourney/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0268-missing-number) |
 | [0475-heaters](https://github.com/Joshit-innit/DSAJourney/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/0628-maximum-product-of-three-numbers) |
