@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Joshit-innit/DSAJourney/tree/master/0967-numbers-with-same-consecutive-differences) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Joshit-innit/DSAJourney/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
 ## Union-Find
@@ -415,9 +417,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Joshit-innit/DSAJourney/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Joshit-innit/DSAJourney/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
