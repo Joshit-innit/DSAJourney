@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Joshit-innit/DSAJourney/tree/master/0967-numbers-with-same-consecutive-differences) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Joshit-innit/DSAJourney/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0543-diameter-of-binary-tree) |
@@ -419,12 +421,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Joshit-innit/DSAJourney/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Joshit-innit/DSAJourney/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
