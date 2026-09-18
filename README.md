@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Joshit-innit/DSAJourney/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Joshit-innit/DSAJourney/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Joshit-innit/DSAJourney/tree/master/0039-combination-sum) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Joshit-innit/DSAJourney/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Joshit-innit/DSAJourney/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/Joshit-innit/DSAJourney/tree/master/0475-heaters) |
