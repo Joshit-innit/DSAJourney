@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Joshit-innit/DSAJourney/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0993-cousins-in-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0993-cousins-in-binary-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Joshit-innit/DSAJourney/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Matrix
 |  |
 | ------- |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Joshit-innit/DSAJourney/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0993-cousins-in-binary-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Joshit-innit/DSAJourney/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Joshit-innit/DSAJourney/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0993-cousins-in-binary-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Joshit-innit/DSAJourney/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## DP on Trees
 |  |
 | ------- |
