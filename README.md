@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Joshit-innit/DSAJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Joshit-innit/DSAJourney/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Joshit-innit/DSAJourney/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2351-first-letter-to-appear-twice](https://github.com/Joshit-innit/DSAJourney/tree/master/2351-first-letter-to-appear-twice) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Joshit-innit/DSAJourney/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Joshit-innit/DSAJourney/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Joshit-innit/DSAJourney/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Joshit-innit/DSAJourney/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Joshit-innit/DSAJourney/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Joshit-innit/DSAJourney/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/Joshit-innit/DSAJourney/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Joshit-innit/DSAJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Joshit-innit/DSAJourney/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Joshit-innit/DSAJourney/tree/master/0476-number-complement) |
 | [0526-beautiful-arrangement](https://github.com/Joshit-innit/DSAJourney/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/Joshit-innit/DSAJourney/tree/master/0784-letter-case-permutation) |
+| [2351-first-letter-to-appear-twice](https://github.com/Joshit-innit/DSAJourney/tree/master/2351-first-letter-to-appear-twice) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Joshit-innit/DSAJourney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Joshit-innit/DSAJourney/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Joshit-innit/DSAJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/Joshit-innit/DSAJourney/tree/master/2351-first-letter-to-appear-twice) |
 ## Tree
 |  |
 | ------- |
