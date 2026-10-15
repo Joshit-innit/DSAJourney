@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Joshit-innit/DSAJourney/tree/master/2553-separate-the-digits-in-an-array) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Joshit-innit/DSAJourney/tree/master/2594-minimum-time-to-repair-cars) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Joshit-innit/DSAJourney/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Joshit-innit/DSAJourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Joshit-innit/DSAJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Joshit-innit/DSAJourney/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Joshit-innit/DSAJourney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Joshit-innit/DSAJourney/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Joshit-innit/DSAJourney/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/Joshit-innit/DSAJourney/tree/master/2540-minimum-common-value) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Joshit-innit/DSAJourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Joshit-innit/DSAJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Joshit-innit/DSAJourney/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Joshit-innit/DSAJourney/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -507,4 +509,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0543-diameter-of-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Joshit-innit/DSAJourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Joshit-innit/DSAJourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
