@@ -26,12 +26,12 @@ class Solution {
         int left = 0;
         int n = arr2.length;
         int right = n - 1;
-        int ans = n; 
+
         while (left <= right) {
             int mid = left + (right - left) / 2;
 
             if (arr2[mid] >= x) {
-                ans = mid;
+                
                 right = mid - 1;
             }
             else {
@@ -39,6 +39,6 @@ class Solution {
             }
         }
 
-        return ans;
+        return left;
     }
 }
