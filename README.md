@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0941-valid-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Joshit-innit/DSAJourney/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1095-find-in-mountain-array) |
+| [1267-count-servers-that-communicate](https://github.com/Joshit-innit/DSAJourney/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Joshit-innit/DSAJourney/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Joshit-innit/DSAJourney/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Joshit-innit/DSAJourney/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0993-cousins-in-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0993-cousins-in-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Joshit-innit/DSAJourney/tree/master/1267-count-servers-that-communicate) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Joshit-innit/DSAJourney/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Matrix
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Joshit-innit/DSAJourney/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/1901-find-a-peak-element-ii) |
 ## Enumeration
@@ -451,11 +454,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Joshit-innit/DSAJourney/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0993-cousins-in-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Joshit-innit/DSAJourney/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Joshit-innit/DSAJourney/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Joshit-innit/DSAJourney/tree/master/1267-count-servers-that-communicate) |
 ## Queue
 |  |
 | ------- |
@@ -489,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Joshit-innit/DSAJourney/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/Joshit-innit/DSAJourney/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Joshit-innit/DSAJourney/tree/master/2351-first-letter-to-appear-twice) |
 ## Tree
