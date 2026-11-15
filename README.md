@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Joshit-innit/DSAJourney/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Joshit-innit/DSAJourney/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Joshit-innit/DSAJourney/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1539-kth-missing-positive-number](https://github.com/Joshit-innit/DSAJourney/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Joshit-innit/DSAJourney/tree/master/1552-magnetic-force-between-two-balls) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
 | [0845-longest-mountain-in-array](https://github.com/Joshit-innit/DSAJourney/tree/master/0845-longest-mountain-in-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/Joshit-innit/DSAJourney/tree/master/0907-sum-of-subarray-minimums) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Joshit-innit/DSAJourney/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Two Pointers
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [1201-ugly-number-iii](https://github.com/Joshit-innit/DSAJourney/tree/master/1201-ugly-number-iii) |
 | [1512-number-of-good-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Joshit-innit/DSAJourney/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/1922-count-good-numbers) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Joshit-innit/DSAJourney/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Joshit-innit/DSAJourney/tree/master/0238-product-of-array-except-self) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Joshit-innit/DSAJourney/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Joshit-innit/DSAJourney/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
