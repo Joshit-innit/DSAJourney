@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Joshit-innit/DSAJourney/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Joshit-innit/DSAJourney/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Joshit-innit/DSAJourney/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Joshit-innit/DSAJourney/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Joshit-innit/DSAJourney/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [1201-ugly-number-iii](https://github.com/Joshit-innit/DSAJourney/tree/master/1201-ugly-number-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Joshit-innit/DSAJourney/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Joshit-innit/DSAJourney/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Joshit-innit/DSAJourney/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Joshit-innit/DSAJourney/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Joshit-innit/DSAJourney/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Joshit-innit/DSAJourney/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/3904-smallest-stable-index-ii) |
@@ -574,4 +577,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Joshit-innit/DSAJourney/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Joshit-innit/DSAJourney/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
