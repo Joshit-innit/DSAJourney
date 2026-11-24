@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Joshit-innit/DSAJourney/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/Joshit-innit/DSAJourney/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0463-island-perimeter](https://github.com/Joshit-innit/DSAJourney/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/Joshit-innit/DSAJourney/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/Joshit-innit/DSAJourney/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0503-next-greater-element-ii) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Joshit-innit/DSAJourney/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Joshit-innit/DSAJourney/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
+| [0463-island-perimeter](https://github.com/Joshit-innit/DSAJourney/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Joshit-innit/DSAJourney/tree/master/0240-search-a-2d-matrix-ii) |
+| [0463-island-perimeter](https://github.com/Joshit-innit/DSAJourney/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/0542-01-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Joshit-innit/DSAJourney/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Joshit-innit/DSAJourney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Joshit-innit/DSAJourney/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Joshit-innit/DSAJourney/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/Joshit-innit/DSAJourney/tree/master/0257-binary-tree-paths) |
+| [0463-island-perimeter](https://github.com/Joshit-innit/DSAJourney/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Joshit-innit/DSAJourney/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
