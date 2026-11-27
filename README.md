@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Joshit-innit/DSAJourney/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Joshit-innit/DSAJourney/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Joshit-innit/DSAJourney/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Joshit-innit/DSAJourney/tree/master/0022-generate-parentheses) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Joshit-innit/DSAJourney/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Joshit-innit/DSAJourney/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Joshit-innit/DSAJourney/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Joshit-innit/DSAJourney/tree/master/0217-contains-duplicate) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Joshit-innit/DSAJourney/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Joshit-innit/DSAJourney/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Joshit-innit/DSAJourney/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Joshit-innit/DSAJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
